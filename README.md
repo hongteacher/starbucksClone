@@ -1,4 +1,7 @@
 [![스타벅스](https://github.com/hongteacher/starbucksClone/blob/master/images/starbucks_logo.png)](https://hongteacher.github.io/starbucksClone/)
+
+
+[해당페이지로 이동](https://hongteacher.github.io/starbucksClone/)
 # 프로젝트 명 : Starbuck Clone Codding
 
 ## 제작기간 : 3일
