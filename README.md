@@ -1,11 +1,11 @@
-[![스타벅스](https://github.com/hongteacher/starbucksClone/images/starbucks_logo.png)](https://hongteacher.github.io/starbucksClone/)
+[![스타벅스](https://github.com/hongteacher/starbucksClone/blob/master/images/starbucks_logo.png)](https://hongteacher.github.io/starbucksClone/)
 # 프로젝트 명 : Starbuck Clone Codding
 
 ## 제작기간 : 3일
 
 ## 사용언어 : HTML, CSS, Javascript
 
-## 사용기술
+## 사용기술 ---------------------
 
 ### 1. 검색최적화를 위한 오프그래프
 웹 페이지가 `소셜 미디어(페이스 북)` 등 공유될 때 우선적으로 활용되는 정보를 지정
